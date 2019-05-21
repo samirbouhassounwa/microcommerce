@@ -4,7 +4,7 @@ Projet microservice with Java8 , SpringBoot, Maven, Tomcat9, h2 database, swagge
 If you want to start the project you need to have Docker and do:  
 
 -open console
--"docker-compose up -d"
+-"docker-compose up -d" into the project directory
 -open your browser
 -go to "http://localhost:8000/Produits" for exemple
 
