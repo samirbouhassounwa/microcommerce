@@ -9,3 +9,4 @@ If you want to start the project you need to have Docker and do:
 -go to "http://localhost:8000/Produits" for exemple
 
 You can to find the image project to samirbouhassounwa/microserviceapp:v1.
+If you want to change ports, go to the docker-compose file.
