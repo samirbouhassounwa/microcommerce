@@ -1,5 +1,5 @@
 # microcommerce
-Projet microservice with Java8 , SpringBoot, Maven,..
+Projet microservice with Java8 , SpringBoot, Maven, Tomcat9, h2 database, swagger2..
 
 If you want to start the project you need to have Docker and do:  
 
@@ -7,3 +7,5 @@ If you want to start the project you need to have Docker and do:
 -"docker-compose up -d"
 -open your browser
 -go to "http://localhost:8000/Produits" for exemple
+
+You can to find the image project to samirbouhassounwa/microserviceapp:v1.
